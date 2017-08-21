@@ -1,6 +1,6 @@
 # MentorAssignment-Datatable
 This is a datatable showing Name,Place,Animal,Thing retrieved from the database created in mysql.
-The server is built using ExpressJS,a framework of NodeJS.
+The server is built using ExpressJS, a framework of NodeJS.
 
 ## Prerequisites
 
