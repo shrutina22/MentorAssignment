@@ -4,7 +4,7 @@ The server is built using ExpressJS, a framework of NodeJS.
 
 ## Prerequisites
 
-Install NodeJS,Node Package Manager(npm) and MYSQL
+Install NodeJS, Node Package Manager(npm) and MYSQL
 
 ## Database
 
